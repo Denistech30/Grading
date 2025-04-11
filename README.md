@@ -1,2 +1,2 @@
 # Grading
-this is a simple too that helps teacher to ease calculation of marks
+this is a simple tool that helps teacher to ease calculation of marks
